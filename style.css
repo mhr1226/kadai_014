@@ -4,11 +4,11 @@ html{
 }
 
 body{
-  font-family:"Arial", "Meiryo", sans-serif;
+  font-family:"Arial", "Meiryo",sans-serif;
 }
 
 h1{
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "Josefin Sans",sans-serif;
   font-size: 2rem;
   letter-spacing: 1.2rem;
   text-shadow: 3px 3px 5px blueviolet;
